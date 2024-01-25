@@ -3,4 +3,5 @@ numpy
 seaborn
 matplotlib
 flask
--e .     
+ -e .     
+scikit-learn
